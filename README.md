@@ -1,4 +1,4 @@
-# T5 Customer Support Response Generation
+# Customer Support Response Generation
 
 This project involves fine-tuning a T5 model to generate automated responses for customer support queries using the dataset from [Kaludi/Customer-Support-Responses](https://huggingface.co/datasets/Kaludi/Customer-Support-Responses).
 
